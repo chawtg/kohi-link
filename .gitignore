@@ -1,4 +1,6 @@
-kohilink-github-issues/
+# Editors and operating systems
+.DS_Store
+
+# Project Documentation
 docs/
 
-.DS_Store
