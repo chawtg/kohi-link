@@ -1,9 +1,13 @@
-KohiLink Portfolio Source Licence
+KohiLink Project Source Licence
 
 Copyright (c) 2026 Chaw Theingi. All rights reserved.
 
 1. Purpose
-This repository is published as a personal portfolio project built to apply my programming and software engineering knowledge across the full software development life cycle. It follows one idea from requirements analysis, user stories and acceptance criteria, through non-functional requirements, architecture and database design, and recorded decisions (ADRs), to implementation with automated tests, a CI pipeline and deployment on free-tier services. T
+This repository is published as a personal portfolio project built to apply my programming and 
+software engineering knowledge across the full software development life cycle. 
+It follows one idea from requirements analysis, user stories and acceptance criteria, 
+through non-functional requirements, architecture and database design, and recorded decisions (ADRs), 
+to implementation with automated tests, a CI pipeline and deployment on free-tier services. T
 
 2. Permitted use
 You may, free of charge and without further permission:
