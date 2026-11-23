@@ -1,0 +1,11 @@
+<Project>
+  <!--
+    Settings shared by every C# project. 
+    If the SDK version is updated, update this file, the two image tags in the Dockerfile and the dotnet-version in the CI workflow.
+  -->
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+</Project>
