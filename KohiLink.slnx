@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/KohiLink.Api/KohiLink.Api.csproj" />
+    <Project Path="src/KohiLink.Application/KohiLink.Application.csproj" />
+    <Project Path="src/KohiLink.Domain/KohiLink.Domain.csproj" />
+    <Project Path="src/KohiLink.Infrastructure/KohiLink.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/KohiLink.Api.IntegrationTests/KohiLink.Api.IntegrationTests.csproj" />
+    <Project Path="tests/KohiLink.Application.UnitTests/KohiLink.Application.UnitTests.csproj" />
+    <Project Path="tests/KohiLink.Domain.UnitTests/KohiLink.Domain.UnitTests.csproj" />
+  </Folder>
+</Solution>

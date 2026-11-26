@@ -1,3 +1,7 @@
+# .NET
+bin/
+obj/
+
 # Editors and operating systems
 .DS_Store
 
